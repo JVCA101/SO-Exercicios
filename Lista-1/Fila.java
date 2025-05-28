@@ -1,3 +1,6 @@
+import java.util.LinkedList;
+import java.util.Queue;
+
 // Exercicio 5.4
 
 // quando há múltiplos consumidores, alguns threads ficam em starvation porque quando adiciona um item à fila
