@@ -1,0 +1,1 @@
+O impacto é de um possível deadlock, se todos filósofos decidirem olhar para os garfos ao mesmo tempo, ou seja, todos os filósofos pegam o primeiro ao mesmo tempo e quando olham o segundo, não estará disponível, já que estará com outro filósofo.

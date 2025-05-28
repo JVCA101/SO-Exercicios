@@ -1,0 +1,1 @@
+O notify() avisa apenas uma thread que o job foi finalizado, o que pode acarretar em starvation nas outras threads. Enquanto que o notifyAll() avisa todas as outras threads que o job foi finalizado, dessa forma prevenindo starvation.

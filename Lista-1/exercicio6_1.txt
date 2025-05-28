@@ -1,0 +1,1 @@
+Se o semáforo mutex for removido, haverá problema no contador de cadeiras livres, já que pode ser que uma thread use um valor desatualizado da variável
